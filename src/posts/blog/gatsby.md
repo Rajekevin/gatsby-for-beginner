@@ -6,6 +6,8 @@ date: "2019-04-04"
 I just launched a new bootcamp!
 
 
+![Sunset](./sunset.jpg)
+
 ##Topic Covered
 
 1. Gatsby
