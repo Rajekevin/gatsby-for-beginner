@@ -11,6 +11,7 @@ module.exports = {
     author: 'Rajekevin'
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-source-filesystem`,
